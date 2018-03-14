@@ -1,0 +1,4 @@
+ket :
+T= Tile
+KBG = Kembang
+p = Polos
